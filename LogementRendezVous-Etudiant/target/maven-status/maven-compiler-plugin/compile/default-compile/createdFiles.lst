@@ -1,4 +1,9 @@
+loggementApplication.class
+restApi\LogementRestApi.class
 entities\Logement.class
+restApi\RendezVousRestApi.class
+restApi\helloRestApi.class
 metiers\RendezVousBusiness.class
+config\OpenApiConfig.class
 metiers\LogementBusiness.class
 entities\RendezVous.class

@@ -1,7 +1,9 @@
 C:\Users\ahmed\Desktop\projet-soa\LogementRendezVous-Etudiant\src\main\java\entities\Logement.java
 C:\Users\ahmed\Desktop\projet-soa\LogementRendezVous-Etudiant\src\main\java\entities\RendezVous.java
+C:\Users\ahmed\Desktop\projet-soa\LogementRendezVous-Etudiant\src\main\java\loggementApplication.java
 C:\Users\ahmed\Desktop\projet-soa\LogementRendezVous-Etudiant\src\main\java\metiers\LogementBusiness.java
 C:\Users\ahmed\Desktop\projet-soa\LogementRendezVous-Etudiant\src\main\java\metiers\RendezVousBusiness.java
-C:\Users\ahmed\Desktop\projet-soa\LogementRendezVous-Etudiant\src\main\java\webservices\ApplicationMain.java
-C:\Users\ahmed\Desktop\projet-soa\LogementRendezVous-Etudiant\src\main\java\webservices\HelloRessources.java
-C:\Users\ahmed\Desktop\projet-soa\LogementRendezVous-Etudiant\src\main\java\webservices\LogementRessources.java
+C:\Users\ahmed\Desktop\projet-soa\LogementRendezVous-Etudiant\src\main\java\restApi\helloRestApi.java
+C:\Users\ahmed\Desktop\projet-soa\LogementRendezVous-Etudiant\src\main\java\restApi\LogementRestApi.java
+C:\Users\ahmed\Desktop\projet-soa\LogementRendezVous-Etudiant\src\main\java\restApi\OpenApiConfig.java
+C:\Users\ahmed\Desktop\projet-soa\LogementRendezVous-Etudiant\src\main\java\restApi\RendezVousRestApi.java
